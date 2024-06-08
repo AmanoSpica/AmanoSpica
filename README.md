@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ### My Skils
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,discord,html,css,js,vscode,ubuntu,windows,docker,bash,raspberrypi&perline=6" />
+    <img src="https://skillicons.dev/icons?i=py,fastapi,discord,html,css,js,nodejs,react,vscode,gcp,aws,ubuntu,windows,docker,bash,raspberrypi&perline=6" />
   </a>
 </p>
