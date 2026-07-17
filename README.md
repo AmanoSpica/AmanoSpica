@@ -2,8 +2,8 @@
 
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanoSpica&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=AmanoSpica&theme=tokyonight&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AmanoSpica&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-stats-extended.vercel.app/api?username=AmanoSpica&theme=tokyonight&show_icons=ture" />
 </p>
 
 ### My Skils
